@@ -1,50 +1,49 @@
-# All Skills 1.4.3.2+ Early Wraiths Route (By Yihou) (Written mostly by BrotherWildness)
-
-## Vengeful Spirit
-- Don't lose time collecting geo
-- Skip False Knight
-- Usually 16-20 Geo after FK
-- Get VS
+# All Skills 1.4.3.2+ Early Wraiths iBaldur Route (By Hyllina and Sly based off Yihou's Early Wraiths Route)
+(Written by Hyllina; Credits to BrotherWildness for writing All Skills LP Early Wraiths Splitnotes)
 
 ## Enter Greenpath
-- +50 Mound Baldur
-- No Soul Catcher
-- +50 Greenpath Baldur
-- 115-120 Geo
+- Grab Fury of the Fallen and S&Q out of King's Pass
+- Head to Greenpath Baldur and Setup a Shade (Do not bench at Dirtmouth)
+- Equip Fury of the Fallen
+- Head back to Greenpath Baldur
+- Perform the iBaldur Kill (+50)
 - Enter Greenpath
 
 ## Mothwing Cloak
-- Usual route through greenpath
-- First Moss Knight +43 Geo
-- Kill VFK +60-65 Geo
-- Moss Knight Geo Rocks +140-160 (Learn the low/no soul pogo strats)
-- Aim for 390 Geo after Moss Knights, anything above 350 works though
+- Usual route through Greenpath, except no fireball skips
+- First Moss Knight +40 Geo
+- Kill VFK +~50 Geo (The more Geo the better, but don't waste time)
+- Moss Knight Geo Rocks +170
+- Aim for 300-310 Geo after Moss Knights, and no less than 290
 - Buy Greenpath Stag (-140)
 - Beat Hornet, collect Cloak
 
 ## Mantis Claw
-- Save & Quit to Mound
-- Collect soul on the way to epogo
-- Do your desired epogo (or mantis safari)
+- Save & Quit to Dirtmouth
+- You can choose to Unequip Fury either here or at the start of Enter Blue Lake
+- Head down to Aspid Arena (Try to collect some of the Geo)
+- Bench Hot Springs
+- Do your desired epogo
 - Mantis pogo
 - Get Claw
 
 ## Howling Wraiths
-- Leave Claw and head back through epogo room towards queen's station
+- Leave Claw and head back through epogo room towards Queen's Station
+- Turn VSync on before autopilot room enter (Makes certain cycles better and Wraiths more consistent, depends on Monitor Refresh Rate)
 - Climb Fog Canyon
 - Go through autopilot room
 - Enter Overgrown Mound
-- Do squit arena
+- Do squit arena (Whatever Geo you're missing, get it here to be at 170)
 - Get Wraiths
 
 ## Enter Blue lake
-- Save & Quit to Mound
+- Save & Quit to Hot Springs (Unequip Fury if you haven't already)
 - Collect soul on the way
 - Need 6 hits of soul before Gruz Mother
-- Kill Gruz mother + children
+- Kill Gruz Mother + gruzzers
 - Bench
 - Buy Shaman Stone (-220)
-- Take damage on the way to sly
+- Take damage on the way to Sly
 - Save Sly
 - Die (close to salubra hut)
 - EQUIP SHAMAN STONE!
@@ -55,16 +54,15 @@
 - Optionally get 1 hit of soul from the flying husk sentry
 - Ride elevator down to city
 - Get soul from enemies, no relic, no killing enemies for geo
-- Aim for full soul before GHusk
 - Enter GHusk Room
-- Kill Enemies before GHusk +35ish Geo
-- Kill GHusk +400-440
+- Optionally Kill Enemies before GHusk
+- Kill GHusk +420
 - End GHusk with full soul
 
 ## Enter Sanctum
 - Object pogo into spire
 - Howling Wraiths the Great Husk Sentry through the floor 3x to kill him
-- Open the lever on your way up out of this room
+- Open the lever on your way up out of this room and collect GHS Geo +45-50
 - Go left towards sanctum entry, collect some soul (5-6 hits is good)
 - Fight Soul Twister
 - Enter Sanctum
@@ -80,13 +78,12 @@
 
 ## City Storerooms Stag
 - Get Soul Master geo chest (+380 geo)
-- Should have about 1200 Geo here
 - Exit sanctum left (collect soul but don't lose time to it)
-- Fireball the toll bench wall near cornifer and dash left a million times
-- Climb city storerooms and purchase stag (-200)
+- Wraiths the toll bench wall near cornifer and dash left a million times
+- Climb City Storerooms and purchase stag (-200)
 
 ## Crystal Heart
-- do wiggles and firebell (don't fireball from too far away), exit room and reenter
+- Do wiggles
 - 1 DOWN stag to dirtmouth
 - Open lever, bench in dirtmouth
 - Enter well and head right towards peaks
@@ -101,7 +98,8 @@
 
 ## Descending Dark (Transition)
 - DON'T SAVE & QUIT
-- Cdash out of crystal heart room
+- If you collect every piece of Geo until the end of the run you'll need to be at 1265, so Nail+Wraiths the Geo Rock if you need +20-24
+- Cdash out of Crystal Heart room
 - Go down past crushers
 - Save the grub :3
 - Do the Dark Room (I hope you learnt this beforehand)
@@ -114,53 +112,53 @@
 - Cdash dream plats
 
 ## Cyclone Slash
-- Save & Quit to dirtmouth
-- Buy elegant key from sly (-800 geo)
-- go left through king's pass
+- Save & Quit to Dirtmouth
+- Buy elegant key from Sly (-800 geo)
+- Go left through King's Pass
 - Up to Howling Cliffs
 - Get Cyclone Slash
 
 ## Shade Soul
 - Save & Quit to dirtmouth
 - 1 UP stag to city storerooms
-- fall down the long storerooms room and cdash right
+- Fall down the long storerooms room and cdash right
 - Use Elegant Key to open up norman2 fight
 - Kill Soul Warrior 2, grab the geo
 - Open the lever before getting Shade Soul
 
 ## Watcher Knights (Transition)
-- Leave Shade soul right, head to sanctum and then down to the long cdash hallway
-- Go up to watcher knights
-- break Chandelier
+- Leave Shade Soul right, head to sanctum and then down to the long cdash hallway
+- Go up to Watcher Knights
+- Break Chandelier
 - Kill Watchers
 
 ## King's Brand
 - Go up and get Lurien
 - Get Watcher Knight's geo chest +655 geo
-- 1400 geo at absolute minimum
-- leave spire out the right towards king's station
+- Preferably at least 1320 Geo
+- Leave spire out the right towards King's Station
 - Go to Kingdom's Edge
 - ACN skip
 - Aspid skip
-- Optional Safety Bench before hornet 2
+- Optional Safety Bench before Hornet 2
 - Fight Hornet 2
-- Dreamnail hornet after the fight, before talking to her
+- Dreamnail Hornet after the fight, before talking to her
 - Get King's Brand
 
 ## Dash Slash
-- go left then down past primal aspids
+- Go left and cyclone the primal aspid on your way down
 - DDark through the dive floor
-- Get the geo rock +~40
+- Get the geo rock +44
 - Go down and right past the great hoppers
 - Buy Dash Slash -800
 
 ## Isma's Tear (Transition)
-- Q/O of dash slash
-- ACN Climb
-- leave left towards king's station
-- head to spike tunnel from big city room
+- DON'T SAVE & QUIT
+- Head back left through long room and kill 6 Hoppers on the way +~96
+- Leave left towards king's station
+- Head to spike tunnel from big city room
 - Spike tunnel skip towards isma's
-- Do isma's acid skips
+- Do Isma's acid skips
 - Do Hwurmp early control if you know it
 - Exit isma's the way you came
 
@@ -169,8 +167,8 @@
 - Buy Basin toll bench (-150)
 - Exit and enter room to animation skip
 - Bench
-- Go through mawlurks to broken vessel
-- Beat broken vessel
+- Go through mawlurks to Broken Vessel
+- Beat Broken Vessel
 - Get Monarch Wings
 
 ## Shade Cloak
@@ -181,16 +179,16 @@
 - Get Shade Cloak, Save & Quit to skip animation
 
 ## Abyss Shriek
-- Do early control (after selecting the save hold up and mash dreamnail)
+- Do early control (after selecting the save and the screen fades to black completely, do 3 nail timings and CDash on the 3rd input)
 - Go all the way left
 - Get at least 3 hits of soul
 - Get shriek
 
 ## Great Slash
 - Tendinitis/Abyss Climb
-- Get 6 soul on the way
-- Fireball the wall before hidden station stag & firebell (-300 geo)
-- 2 UP/DOWN(doesnt matter) to greenpath & bench
+- Get 3 soul on the way
+- Cyclone the wall before Hidden Station Stag & firebell (-300 geo)
+- 2 UP/DOWN(doesnt matter) to Greenpath & bench
 - Go down towards Great Slash gauntlet
 - Do gauntlet, collect Great Slash
 
@@ -202,25 +200,26 @@
 - Trinomi drop
 - Enter Teacher's Archives
 - Optional safety bench
-- I aim for 2 casts entering uumuu, can dreamnail uumuu once or twice at the start
-- 1 Cycle uumuu - 3 shrieks lol
+- Aim for at least 1 cast entering uumuu, can dreamnail uumuu once or twice at the start
+- 1 Cycle Uumuu - 3 shrieks lol
 - Collect Monomon
 
 ## Herrah
 - Go to Queen's Gardens through "qga"
-- Do petra arena and hit thorns lever (collect geo to get to 250 if possible, if not get den rocks/kill devout)
+- Do petra arena and hit thorns lever (collect geo to get to 210 if not already)
 - Go down to long petra gauntlet
 - Enter Deepnest
 - Do Dark Deepnest
 - Enter Beast Den
 - Skip trapbench
+- Charge Cyclone and get Den Rocks +~40
 - Get Herrah
 
 ## Scream
 - Exit Beast Den
-- Buy Distant Village stag (do cdash bell) (-250 geo)
+- Buy Distant Village Stag (do cdash bell) (-250 geo)
 - 2 DOWN stag to Dirtmouth
-- Well greatslash early control
+- Well Great Slash early control
 - Enter black egg temple
 - Don't need to bench
 - Break chains
